@@ -1,4 +1,2 @@
-# first-day-repo
-homework practice repo.
-
-A repo for practicing clonig directories from github to the local machine.
+# Practice Repo
+A repo for practicing cloning directories from github to the local machine.
